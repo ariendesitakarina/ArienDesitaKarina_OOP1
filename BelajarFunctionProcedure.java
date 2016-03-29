@@ -1,9 +1,21 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package belajarfunctionprocedure;
+
+/**
+ *
+ * @author ARIEN
+ */
 public class BelajarFunctionProcedure {
+
 
 	public static void main(String[] args) {
 		BelajarFunctionProcedure belajar = new BelajarFunctionProcedure();
-		belajar.tambah(1, 2);
-		belajar.kurang(5, 4);
+		belajar.tambah(3, 5);
+		belajar.kurang(21, 1);
 
 	}
 
@@ -23,5 +35,4 @@ public class BelajarFunctionProcedure {
 		
 	}
 
-	
-}	
+}
